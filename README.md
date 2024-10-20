@@ -1,4 +1,4 @@
-# Reign of Nether: Minecraft as an RTS
+# Reign of Nether: Minecraft as an RT
 
 Inspired the classic Real Time Strategy games of the early 2000s including Starcraft, Warcraft and Age of Empires, Reign of Nether is trying to transform Minecraft into a experience just like one of them using all the same assets and models you find in the vanilla game.
 
